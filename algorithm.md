@@ -1,0 +1,1 @@
+$\sum I_x^2&\sum I_xI_y\\\sum I_xI_y&\sum I_y^2\end{bmatrix}$$

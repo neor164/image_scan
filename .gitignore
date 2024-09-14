@@ -1,0 +1,5 @@
+/target
+/dov
+/data/*
+.DS_Store
+*.pdf
